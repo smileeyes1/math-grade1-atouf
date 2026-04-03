@@ -1,0 +1,8 @@
+{
+  "name": "رياضيات الصف الأول – مدرسة عاطوف المختلطة",
+  "short_name": "رياضيات 1",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#e0f7fa",
+  "theme_color": "#00796b"
+}
